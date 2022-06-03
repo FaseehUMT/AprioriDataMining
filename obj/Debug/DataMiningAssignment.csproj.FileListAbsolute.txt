@@ -1,0 +1,10 @@
+E:\FaseehAhmed\DataMining\DataMiningAssignment\bin\Debug\DataMiningAssignment.exe.config
+E:\FaseehAhmed\DataMining\DataMiningAssignment\bin\Debug\DataMiningAssignment.exe
+E:\FaseehAhmed\DataMining\DataMiningAssignment\bin\Debug\DataMiningAssignment.pdb
+E:\FaseehAhmed\DataMining\DataMiningAssignment\obj\Debug\DataMiningAssignment.csproj.AssemblyReference.cache
+E:\FaseehAhmed\DataMining\DataMiningAssignment\obj\Debug\DataMiningAssignment.csproj.CoreCompileInputs.cache
+E:\FaseehAhmed\DataMining\DataMiningAssignment\obj\Debug\DataMiningAssignment.exe
+E:\FaseehAhmed\DataMining\DataMiningAssignment\obj\Debug\DataMiningAssignment.pdb
+E:\FaseehAhmed\DataMining\DataMiningAssignment\bin\Debug\All.dll
+E:\FaseehAhmed\DataMining\DataMiningAssignment\bin\Debug\Association.dll
+E:\FaseehAhmed\DataMining\DataMiningAssignment\obj\Debug\DataMiningAssignment.csproj.CopyComplete
